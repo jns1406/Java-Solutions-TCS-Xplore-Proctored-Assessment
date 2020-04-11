@@ -8,7 +8,7 @@ threshold - int
 
 Create class Solution and implement static method "replenish" in the Solution class.
 This method will take array of Inventory objects and a limit int as parameters.
-And will return another array of Inventory objects where the limit int is lesser than or equal to the original array of Inventory object's threshold attribute.
+And will return another array of Inventory objects where the limit int is greater than or equal to the original array of Inventory object's threshold attribute.
 
 Write necessary getters and setters.
 
